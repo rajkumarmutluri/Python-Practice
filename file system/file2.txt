@@ -1,0 +1,1 @@
+I'm adding a new message here to check the appending of the file 
